@@ -46,10 +46,10 @@ of the project is writing since English is not my first language. Also, I really
 tried to use grid in css but flexbox solve most of the problems.
 
 #### Sources
--Resources were mostly the slides from mycourses and past assignmnets
--[General semantic markup problem] (https://www.w3schools.com/)
--[Cover image in the Overview page] (https://elgoog.im/t-rex/)
--[Font] (https://fonts.google.com/)
+⋅⋅*Resources were mostly the slides from mycourses and past assignmnets
+⋅⋅*[General semantic markup problem] (https://www.w3schools.com/)
+⋅⋅*[Cover image in the Overview page] (https://elgoog.im/t-rex/)
+⋅⋅*[Font] (https://fonts.google.com/)
 
 ### Project
 
