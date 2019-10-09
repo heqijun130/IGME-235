@@ -8,12 +8,6 @@
 
 a more fun version of T-Rex, Run! (Google Chorme Dinosaur Game) 
 
-
-
-
-
-
-
 ### Proposal
 
 #### High Concept
@@ -43,6 +37,21 @@ it is a desktop only platformer game, cartoonish style with 8 bit music.
 #### About the developer
 I am QiJun He, second year game desgin. I don't have any skill. I like sleeping.
 
+### Documentation
+
+#### Process
+The overall process of this project is steady. I got the idea of the game from 
+the day I arrived at my appartment and there is no internet. The hardest part 
+of the project is writing since English is not my first language. Also, I really 
+tried to use grid in css but flexbox solve most of the problems.
+
+#### Sources
+-Resources were mostly the slides from mycourses and past assignmnets
+-[General semantic markup problem] (https://www.w3schools.com/)
+-[Cover image in the Overview page] (https://elgoog.im/t-rex/)
+-[Font] (https://fonts.google.com/)
+
+### Project
 
 
                
